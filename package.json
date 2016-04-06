@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaythe/scraper.git"
+  },
+  "author": "Michael Laythe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlaythe/scraper/issues"
+  },
+  "homepage": "https://github.com/mlaythe/scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.70.0"
+  }
+}
